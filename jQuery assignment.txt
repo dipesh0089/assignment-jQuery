@@ -1,0 +1,37 @@
+
+
+1)  What is jQuery?
+  
+  ans:- jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps 
+        them into methods that you can call with a single line of code.
+        jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation. 
+
+
+2)  How to Apply CSS Using JQuery, How to Add Class and Remove Class in Jquery,JQuery Animation?
+
+  ans:- addClass() - Adds one or more classes to the selected elements.
+        
+        removeClass() - Removes one or more classes from the selected elements.
+
+        toggleClass() - Toggles between adding/removing classes from the selected elements.
+
+        css() - Sets or returns the style attribute.
+
+
+3)  How to create slider with animation?
+
+  ans:- Create the HTML with a container div and the slider div.
+
+        In the CSS, set the slider to be offscreen by setting it with a negative left (eg -100px).
+
+        We then trigger the slide by using transition CSS property and set the left to be 0px;
+
+
+3)  Event bubbling tickling example 
+
+  ans:- Event Bubbling is a concept in the DOM (Document Object Model).
+
+        It happens when an element receives an event, and that event bubbles up (or you can say is transmitted or 
+
+        propagated) to its parent and ancestor elements in the DOM tree until it gets to the root element.
+ 
